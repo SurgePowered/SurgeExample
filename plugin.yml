@@ -1,0 +1,5 @@
+name: SurgeExample
+version: 0.0.1
+main: com.arrayprolc.exampleplugin.exclusive.spigot.SurgeExampleSpigot
+commands:
+    test:
